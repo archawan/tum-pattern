@@ -1,0 +1,38 @@
+/*
+// //////////////////////////////////////////////////////////////////////////////////////////////////
+// ==================================================================================================
+//
+// Fonts (embed)
+// * OpenSans Regular
+// * OpenSans Bold
+//
+// ==================================================================================================
+// //////////////////////////////////////////////////////////////////////////////////////////////////
+*/
+
+/*
+// OpenSans Regular
+// ============================================================
+*/
+@font-face {
+  font-family: 'OpenSans Regular';
+  src: url('../fonts/opensans/opensans-regular.eot');
+  src: url('../fonts/opensans/opensans-regular.eot') format('embedded-opentype'),
+       url('../fonts/opensans/opensans-regular.woff') format('woff'),
+       url('../fonts/opensans/opensans-regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*
+// OpenSans Bold
+// ============================================================ */
+@font-face {
+  font-family: 'OpenSans Bold';
+  src: url('../fonts/opensans/opensans-bold.eot');
+  src: url('../fonts/opensans/opensans-bold.eot') format('embedded-opentype'),
+       url('../fonts/opensans/opensans-bold.woff') format('woff'),
+       url('../fonts/opensans/opensans-bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
